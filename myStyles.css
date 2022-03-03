@@ -1,0 +1,56 @@
+.form-main{
+          padding:40px;
+          margin:10px;
+          background-image: linear-gradient(#fc00ff,#00dbde);
+}
+.header{
+          color:white;
+          font-size: 20px;
+          font-family:Arial, Helvetica, sans-serif;
+}
+.mb-1{
+          
+          height:40px;
+          margin: 10px;
+          color:white;
+}
+.mb-2{
+         
+          height:40px;
+          margin: 10px;
+          color:white;
+}
+.mb-3{
+          
+          height:40px;
+          margin: 10px;
+          color:white;
+}
+.mb-4{
+          
+          height:40px;
+          margin: 10px;
+          color:white;
+}
+.mb-5{
+          
+          height:40px;
+          margin: 10px;
+          color:white;
+}
+.btn{
+          color:white;
+          background-color: blue;
+          font-size: 15px;
+          text-decoration: none;
+          font-family: 'Courier New', Courier, monospace;
+          border-radius: 5px;
+}
+.btn:hover{
+          color:blue;
+        background-color: white;
+}
+.footer{
+         color: white;
+          margin:10px;
+}
